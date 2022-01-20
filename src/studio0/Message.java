@@ -3,7 +3,7 @@ package studio0;
 public class Message {
 
 	public static void main(String args[]) {
-		System.out.println("Hey groupmates ");
+		System.out.println("Hey group 1");
 
 	}
 }
